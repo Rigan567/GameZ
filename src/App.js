@@ -12,7 +12,7 @@ function App() {
     <Router>
       <Header />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/home" element={<Home />} />
         <Route path="/videos" element={<Videos />} />
         <Route path="/videos?category=free" element={<Videos />} />
         <Route path="/upload" element={<Upload />} />
