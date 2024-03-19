@@ -45,7 +45,7 @@ const Videos = () => {
           style={{
             outline: 'none',
             width: '80vw',
-            height: '80vh',
+            
 
             left: '0',
           }}
